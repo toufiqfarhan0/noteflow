@@ -18,11 +18,8 @@ import {
 import { unstable_noStore as noStore } from "next/cache";
 
 const featureItems = [
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
+  { name: "Use dummy card like 4242 4242" },
+  { name: "Also type random CVV" },
 ];
 
 async function getData(userId: string) {
